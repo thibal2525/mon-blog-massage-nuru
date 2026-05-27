@@ -3,6 +3,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import monImage from "../assets/position-69.webp";
 ---
 
 <!doctype html>
@@ -12,21 +13,12 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
   title="Position 69 : Comment maîtriser la position du 69"
   description="Découvrez comment maîtriser la position du 69 avec des conseils simples, des variantes, des techniques et astuces pour plus de confort, de plaisir et d’intimité."
 />
----
-const image = "/position-69.webp";
----
 	</head>
 	<body>
 		<Header />
 		<main>
 			<h1>Position 69 : Comment maîtriser la position du 69</h1>
-			 {image && (
-    <img
-      src={image}
-      alt="Position 69 guide et explication"
-      class="w-full rounded-xl mb-6"
-    />
-  )}
+			<img src={monImage.src} alt="Position 69" />
 			<p>
 La position du 69 est depuis longtemps considérée comme une pratique intime emblématique, offrant aux partenaires un plaisir oral mutuel et simultané. Lorsque les deux partenaires donnent et reçoivent en même temps, cela peut renforcer la connexion et l’intensité du moment.
 </p>
