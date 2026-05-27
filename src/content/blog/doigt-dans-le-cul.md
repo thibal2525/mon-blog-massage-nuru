@@ -1,10 +1,9 @@
 ---
 title: 'Doigt dans le cul : Guide du débutant au doigtage anal'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Si vous n’avez jamais pratiqué le doigtage anal auparavant, certaines étapes peuvent vous aider à vous préparer et à rendre l’expérience plus agréabl'
 pubDate: 'Jul 08 2022'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
-# Doigt dans le cul : Guide du débutant au doigtage anal
 
 ## Points clés à retenir
 
